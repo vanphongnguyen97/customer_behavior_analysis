@@ -23,7 +23,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 git clone [https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git](https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git)
 cd customer-trends-data-analysis-SQL-Python-PowerBI
 
-2. Python Data Pipeline
+## 2. Python Data Pipeline
 Open the Customer_Shopping_Behavior_Analysis.ipynb notebook to execute the data pipeline:
 
 Data Import: Load the raw shopping behavior dataset.
@@ -36,7 +36,7 @@ Connection to SQL Database: Establish a connection to your preferred SQL databas
 
 Data Ingestion: Run the Python script within the notebook to automatically load the cleaned data into your database.
 
-3. SQL Data Analysis
+## 3. SQL Data Analysis
 Open your SQL database management tool (e.g., MySQL Workbench, pgAdmin, or SSMS).
 
 Create a new database target:
@@ -47,7 +47,7 @@ Open customer_behavior_sql_queries.sql.
 
 Run the SQL queries to answer the primary business and customer analytics questions.
 
-4. Power BI Dashboard
+## 4. Power BI Dashboard
 Connect Power BI Desktop to your SQL database containing the processed data.
 
 Open customer_behavior_dashboard.pbix.
