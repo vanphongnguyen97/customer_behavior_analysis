@@ -48,6 +48,5 @@ Explore or customize the interactive dashboard visualizations and KPIs.
 ## 4. Report & Presentation
 Project Report: Review the comprehensive project report detailing findings, methodologies, and business insights.
 
-Presentation Deck: Built using Gamma AI for executive summaries and stakeholder presentations.
 
 
