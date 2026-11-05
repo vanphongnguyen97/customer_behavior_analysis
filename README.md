@@ -13,7 +13,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
-# 🛠️ How to Use This Project
+# 🛠️ All Steps Of This Project
 
 ## 1. Python Data Pipeline
 Open the Customer_Shopping_Behavior_Analysis.ipynb notebook to execute the data pipeline:
