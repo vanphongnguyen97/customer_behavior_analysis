@@ -29,7 +29,6 @@ Connection to SQL Database: Establish a connection to your preferred SQL databas
 Data Ingestion: Run the Python script within the notebook to automatically load the cleaned data into your database.
 
 ## 2. SQL Data Analysis
-Open your SQL database management tool (e.g., MySQL Workbench, pgAdmin, or SSMS).
 
 Create a new database target:
 
